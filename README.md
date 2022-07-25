@@ -12,7 +12,7 @@ In love with Lo-Fi Music 🎵, Football ⚽ and Japan ⬜🔴
 > * 🖥️ HTML5, Bootstrap, jQuery
 > * ⚙️ Expo, Git, Node.js
 > * 🎨 Adobe Illustrator, CSS, SASS
-> * 📸 Adobe Photoshop
+> * 📸 Adobe Photoshop, Adobe Lightroom
 
 ### Contacts
  - [samuele.giaccone5@gmail.com](mailto:samuele.giaccone5@gmail.com)
