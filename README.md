@@ -3,8 +3,8 @@
 [<img align="right" width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=xZero-s&theme=radical&hide_border=true">](https://git.io/streak-stats)
 <!-- ADD SPOTIFY -->
 
-I'm a 25 years old App Developer - UX Specialist - Designer from Italy. <br>
-In love with Lo-Fi Music 🎵, Football ⚽ and Japan ⬜🔴
+I'm a 25 years old App Developer & UX Specialist from Italy. <br>
+In love with Lo-Fi Music 🎵, Football ⚽, Design 💻 and Japan ⬜🔴
 
 ### Skills
 > * 👨‍💻 Kotlin, Flutter, React-Native, JavaScript
@@ -15,9 +15,10 @@ In love with Lo-Fi Music 🎵, Football ⚽ and Japan ⬜🔴
 > * 📸 Adobe Photoshop, Adobe Lightroom
 
 ### Contacts
- - [samuele.giaccone5@gmail.com](mailto:samuele.giaccone5@gmail.com)
- - [@samuele.giaccone](https://instagram.com/samuele.giaccone) on Instagram
-<!-- ADD DISCORD AND LINKEDIN -->
+ - Mail: [samuele.giaccone5@gmail.com](mailto:samuele.giaccone5@gmail.com)
+ - Instagram: [@samuele.giaccone](https://instagram.com/samuele.giaccone)
+ - Discord: [Zephyr](https://discordapp.com/users/233329691153399828)
+ - LinkedIn: [Samuele Giaccone](https://www.linkedin.com/in/samuele-giaccone-164a60241/) 
 <!--
 **xZero-s/xZero-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
