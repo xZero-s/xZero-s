@@ -4,7 +4,7 @@
 <!-- ADD SPOTIFY -->
 
 I'm a 25 years old App Developer & UX Specialist from Italy. <br>
-In love with Lo-Fi Music 🎵, Football ⚽, Design 💻 and Japan ⬜🔴
+In love with Lo-Fi Music 🎵, Football ⚽, Design 💻, Japan ⬜🔴
 
 ### Skills
 > * 👨‍💻 Kotlin, Flutter, React-Native, JavaScript
