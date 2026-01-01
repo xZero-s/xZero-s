@@ -16,9 +16,7 @@ In love with Music 🎵, Football ⚽, Design 💻, Japan ⬜🔴
 
 ### Contacts
  - Mail: [samuele.giaccone5@gmail.com](mailto:samuele.giaccone5@gmail.com)
- - Instagram: [@samuele.giaccone](https://instagram.com/samuele.giaccone)
  - Discord: [Shirou](https://discordapp.com/users/233329691153399828)
- - LinkedIn: [Samuele Giaccone](https://www.linkedin.com/in/samuele-giaccone-164a60241/) 
 <!--
 **xZero-s/xZero-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
