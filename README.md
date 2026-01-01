@@ -3,15 +3,15 @@
 [<img align="right" width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=xZero-s&theme=radical&hide_border=true">](https://git.io/streak-stats)
 <!-- ADD SPOTIFY -->
 
-I'm a 25 years old App Developer & UX Specialist from Italy. <br>
-In love with Lo-Fi Music 🎵, Football ⚽, Design 💻, Japan ⬜🔴
+I'm a 27 years old App Developer & UX Specialist from Italy. <br>
+In love with Music 🎵, Football ⚽, Design 💻, Japan ⬜🔴
 
 ### Skills
 > * 👨‍💻 Kotlin, React-Native, JavaScript, Typescript
 > * 📘 UX, UI
-> * 🖥️ HTML5, Bootstrap, jQuery
-> * ⚙️ Expo, Git, Node.js
-> * 🎨 Adobe Illustrator, CSS, SASS
+> * 🖥️ HTML5, Bootstrap, React.js
+> * ⚙️ Eas, Expo, Git, Node.js
+> * 🎨 Adobe Illustrator, CSS, SASS, Tailwind
 > * 📸 Adobe Photoshop, Adobe Lightroom
 
 ### Contacts
