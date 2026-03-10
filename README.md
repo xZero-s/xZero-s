@@ -3,7 +3,7 @@
 [<img align="right" width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=xZero-s&theme=radical&hide_border=true">](https://git.io/streak-stats)
 <!-- ADD SPOTIFY -->
 
-I'm a 27 years old App Developer & UX Specialist from Italy. <br>
+I'm a 28 years old App Developer & UX Specialist from Italy. <br>
 In love with Music 🎵, Football ⚽, Design 💻, Japan ⬜🔴
 
 ### Skills
