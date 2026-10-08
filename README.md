@@ -4,19 +4,19 @@
 <!-- ADD SPOTIFY -->
 
 I'm a 28 years old App Developer & UX Specialist from Italy. <br>
-In love with Music 🎵, Football ⚽, Design 💻, Japan ⬜🔴
+In love with Gaming 🎮, Music 🎵, Football ⚽, Design 💻, Japan ⬜🔴
 
 ### Skills
-> * 👨‍💻 React.js, React-Native, JavaScript, Typescript, Kotlin
+> * 👨‍💻 React.js, React-Native, JavaScript, Typescript, Kotlin, Unreal Engine
 > * 📘 UX, UI
 > * 🖥️ HTML5, Bootstrap
-> * ⚙️ Eas, Expo, Git, Node.js
-> * 🎨 Adobe Illustrator, CSS, SASS
+> * ⚙️ Eas, Expo, Git, Node.js, Express.js
+> * 🎨 Adobe Illustrator, CSS, SASS, Figma, Aseprite, Blender
 > * 📸 Adobe Photoshop, Adobe Lightroom
 
 ### Contacts
  - Mail: [samuele.giaccone5@gmail.com](mailto:samuele.giaccone5@gmail.com)
- - Discord: [Shakal](https://discordapp.com/users/233329691153399828)
+ - Discord: [Ryuji](https://discordapp.com/users/233329691153399828)
 <!--
 **xZero-s/xZero-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
